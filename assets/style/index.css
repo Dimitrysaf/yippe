@@ -54,7 +54,7 @@ body {
     .navbar.responsive a.icon {
       position: absolute;
       right: 0;
-      bottom: 0;
+      top: 0;
     }
     .navbar.responsive a {
       float: none;
