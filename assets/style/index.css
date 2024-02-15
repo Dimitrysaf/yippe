@@ -29,13 +29,13 @@ body {
   
   /* Change the color of links on hover */
   .navbar a:hover {
-    background-color: #ddd;
+    background-color: #89c5ee;
     color: black;
   }
   
   /* Add a green background color to the active link */
   .navbar a.active {
-    background-color: #04AA6D;
+    background-color: #0468aa;
     color: white;
   }
   
